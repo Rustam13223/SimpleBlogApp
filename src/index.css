@@ -1,0 +1,13 @@
+body {
+  display: flow-root;
+  background-color: #11191f;
+}
+
+article img {
+  border-radius: var(--border-radius);
+  margin-top: var(--typography-spacing-vertical);
+}
+
+header h2 {
+  margin: 0;
+}
